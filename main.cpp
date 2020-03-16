@@ -64,7 +64,7 @@ int main()
     board();
     if(i==1)
 
-        cout<<"==>\aPlayer "<<--player<<" win ";
+        cout<<"==>\aPlayer "<<--player<<" wins ";
     else
         cout<<"==>\aGame draw";
 
